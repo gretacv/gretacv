@@ -2,7 +2,7 @@
 
 ## 🔭 Now
 ### 👩‍💻 Work
-I’m currently working at [Cervest](https://github.com/cervest), most of my work happens in private repositories.  
+I’m currently taking some time off. I am enjoying networking through virtual coffees and reading.  
 
 ### 🌱 Spare time
 In my spare time I collaborate in an Art History project at [UNED](https://dimh.hypotheses.org/equipo).
@@ -13,9 +13,9 @@ I support the team in the design of the GIS database and development of webapps 
 
 ## 🚀 How I got here
 ### 🦔 Work
-In the past, I worked on the development of The Half-Earth Project at [Vizzuality](https://github.com/Vizzuality).
+In the past, I worked on the development of climate risk on Natural assests at [Cervest](https://github.com/cervest), most of my work happened in private repositories. I was also part of the management team and worked with internal data to make organizational decisions. Previous to that I worked on the development of The Half-Earth Project Map at [Vizzuality](https://github.com/Vizzuality).
 ### 🚲 Motivation
-I like to visualise data using R and if possible creating shiny apps or anything a bit more interactive. I did field work in Antarctica, the Amazon and the Gabonese rainforest, amazing ecosystems, but I think my natural habitat is in front of a computer crunching data, finding out if there is questions that can be answered with it. 
+I like to visualise data using R and if possible creating shiny apps or anything a bit more interactive. I did field work in Antarctica, the Amazon and the Gabonese rainforest, amazing ecosystems, but I think my natural habitat is in front of a computer crunching data, finding out if there are questions that can be answered with it. 
 ## 📫 How to reach me: 
 gretacvega[at]gmail.com
 
