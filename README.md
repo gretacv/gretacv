@@ -2,7 +2,7 @@
 
 ## 🔭 Now
 ### 👩‍💻 Work
-I’m currently taking some time off. I am enjoying networking through virtual coffees and reading.  
+I’m currently taking some time off. I am enjoying reading and networking through virtual coffees, so feel free to drop an email.  
 
 ### 🌱 Spare time
 In my spare time I collaborate in an Art History project at [UNED](https://dimh.hypotheses.org/equipo).
@@ -24,3 +24,6 @@ gretacvega[at]gmail.com
 Oral communications
 [Vega, G.C., Teixeira, L. (2020)](https://www.youtube.com/watch?v=sa-49f0qcPw). Why spatial matters in the fight against climate change. Spatial Data Science Conference 2020
 [Casal, E., Vega, G.C. (2021).](https://www.outlierconf.com/speakers)  An odd couple’s journey towards SciArt: Design meets Science and vice-versa. Outlier 2021
+
+### Written comms
+`@todo`
