@@ -2,7 +2,7 @@
 I am a data-hungry ecologist by education, and I struggle to stick to just one label - I tend to be involved in several things at the same time. My north star for choosing what to work on is my purpose: to democratise scientific knowledge through technology. I believe increasing critical and analytical thinking in many areas of society is possible by bringing together stakeholders from different backgrounds. 
 
 # 🚀 How I got here
-Curiosity drives my journey, it guides me to achieve dreams I didn’t even know I could have. As a child, I wanted to be an astronaut. I don’t think I will ever go to space but I consider the month of fieldwork in Antarctica as achieving that dream (I made a video). 
+Curiosity drives my journey, it guides me to achieve dreams I didn’t even know I could have. As a child, I wanted to be an astronaut. I don’t think I will ever go to space but I consider the month of fieldwork in Antarctica as achieving that dream (I made a [video](https://youtu.be/Vec517ZIDqc)). 
 
 ## 🐸 First stop: University and NGOs 
 During 10 years, I created opportunities to gain experience internationally and with a variety of organisations involved in biodiversity conservation. I did my work using public grants with limited financing that led  great collaborations. I thought my future was in academia, but then one day I saw an advert to volunteer for a user research experiment and I discovered Vizzuality. 
