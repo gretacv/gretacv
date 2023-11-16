@@ -25,8 +25,8 @@ gretacvega[at]gmail.com
 # A more boring list of things that I have done
 ## Oral comms
 Oral communications
-[Vega, G.C., Teixeira, L. (2020)](https://www.youtube.com/watch?v=sa-49f0qcPw). Why spatial matters in the fight against climate change. Spatial Data Science Conference 2020
-[Casal, E., Vega, G.C. (2021).](https://www.outlierconf.com/speakers)  An odd couple’s journey towards SciArt: Design meets Science and vice-versa. Outlier 2021
+- [Vega, G.C., Teixeira, L. (2020)](https://www.youtube.com/watch?v=sa-49f0qcPw). Why spatial matters in the fight against climate change. Spatial Data Science Conference 2020
+- [Casal, E., Vega, G.C. (2021).](https://www.outlierconf.com/speakers)  An odd couple’s journey towards SciArt: Design meets Science and vice-versa. Outlier 2021
 
 ## Written comms
 `@todo`
